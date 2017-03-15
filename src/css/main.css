@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*体现less强大之处*/
+#div1 {
+  width: 400px;
+  height: 400px;
+  background: #ff0;
+  border: 10px solid #090;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+  border-radius: 200px;
+  line-height: 400px;
+  text-align: center;
+  color: #f00;
+}
